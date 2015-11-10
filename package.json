@@ -1,0 +1,15 @@
+{
+  "name": "jsudoku",
+  "version": "0.0.1",
+  "description":"A backtracking sudoku solver and generator",
+  "licence":"GPL",
+  "author":"Erik van den Hooven",
+  "keywords":["sudoku", "generator", "solver", "backtracking"],
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "devDependencies": {
+    "lodash": "^3.10.1",
+    "tap": "^2.2.0"
+  }
+}
